@@ -103,7 +103,7 @@ Censys is a series C company based in Ann Arbor (United States), founded in 2015
 
 ### Related Tools:
 
-* [Shodan](192.com-3.md)
+* [Shodan](shodan.md)
 * ZoomEye
 * BinaryEdge
 

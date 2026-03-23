@@ -96,7 +96,7 @@ Shodan is owned and founded by [John Matherly](https://www.linkedin.com/in/jmath
 
 ### Related Tools:
 
-* [Censys](192.com-2.md)
+* [Censys](censys.md)
 * ZoomEye
 *   BinaryEdge
 
