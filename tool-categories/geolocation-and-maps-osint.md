@@ -9,4 +9,4 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | Bellingcat OpenStreetMap Search | [Find out more](../osint-tools/bellingcat-openstreetmap-search.md) |
 | GeoHints                        | [Find out more](../osint-tools/geohints.md)                        |
 | ShadeMap                        | [Find out more](../osint-tools/shademap.md)                        |
-|                                 |                                                                    |
+| Wikimapia                       | [Find out more](../osint-tools/wikimapia.md)                       |

@@ -19,7 +19,7 @@
   * [Network Infrastructure OSINT](tool-categories/network-infrastructure-osint.md)
 * [OSINT Tools](osint-tools/README.md)
   * [Tool Template](osint-tools/tool-template.md)
-  * [Wikimapia](osint-tools/tool-template-1.md)
+  * [Wikimapia](osint-tools/wikimapia.md)
   * [IPinfo](osint-tools/ipinfo.md)
   * [WHOIS API](osint-tools/whois-api.md)
   * [IntelligenceX](osint-tools/intelligencex.md)
