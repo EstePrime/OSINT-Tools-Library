@@ -85,7 +85,17 @@ Tools for analysing maps, satellite imagery, and location data.
 
 [View category](geolocation-and-maps-osint.md)
 
+#### Blockchain/Cryptocurrency OSINT:
 
+Tools for analysing blockchain transactions, cryptocurrency wallets, and on-chain activity
+
+[View category](blockchain-and-cryptocurrency-osint.md)
+
+#### Network Infrastructure OSINT:
+
+Tools for analysing IP addresses, domains, and network infrastructure data
+
+[View category](network-infrastructure-osint.md)
 
 
 
