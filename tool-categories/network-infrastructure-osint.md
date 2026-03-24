@@ -9,4 +9,4 @@ Network & Infrastructure OSINT focuses on discovering, indexing, and analyzing i
 | IPinfo        | [Find out more](../osint-tools/ipinfo.md)        |
 | IntelligenceX | [Find out more](../osint-tools/intelligencex.md) |
 | PhishTank     | [Find out more](../osint-tools/phishtank.md)     |
-|               |                                                  |
+| FOFA          | [Find out more](../osint-tools/fofa.md)          |
