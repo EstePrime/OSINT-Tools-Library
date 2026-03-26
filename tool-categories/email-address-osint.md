@@ -5,7 +5,7 @@ Email OSINT focuses on investigating email addresses to uncover associated accou
 | Tool  | Link                                     |
 | ----- | ---------------------------------------- |
 | Ghunt | [Find out more](../osint-tools/ghunt.md) |
-|       |                                          |
+| Osintly | [Find out more](../osint-tools/osintly.md) |
 |       |                                          |
 |       |                                          |
 |       |                                          |

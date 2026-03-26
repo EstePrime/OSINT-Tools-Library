@@ -4,7 +4,7 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis,
 
 | Tool | Link |
 | ---- | ---- |
-|      |      |
+| Osintly | [Find out more](../osint-tools/osintly.md) |
 |      |      |
 |      |      |
 |      |      |

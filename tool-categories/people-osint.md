@@ -5,7 +5,7 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | Tool    | Link                                       |
 | ------- | ------------------------------------------ |
 | 192.com | [Find out more](../osint-tools/192.com.md) |
-|         |                                            |
+| Osintly | [Find out more](../osint-tools/osintly.md) |
 |         |                                            |
 |         |                                            |
 |         |                                            |

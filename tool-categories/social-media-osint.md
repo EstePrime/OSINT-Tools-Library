@@ -5,8 +5,8 @@ These tools help investigators identify accounts, relationships, activity patter
 
 | Tool                           | Link                                                             |
 | ------------------------------ | ---------------------------------------------------------------- |
-| Tool Name                      | [Link](../osint-tools/tool-template.md)                          |
 | Instagram Map                  | [Find out more](../osint-tools/instagram-map.md)                 |
+| Osintly                        | [Find out more](../osint-tools/osintly.md)                       |
 | Snap Map                       | [Find out more](../osint-tools/snap-map.md)                      |
 | Story Saver (Instagram)        | [Find out more](../osint-tools/story-saver-instagram.md)         |
 | Telegago (Telegram)            | [Find out more](../osint-tools/telegago-telegram.md)             |

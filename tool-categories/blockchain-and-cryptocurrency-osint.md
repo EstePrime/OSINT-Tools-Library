@@ -6,7 +6,7 @@ Blockchain Intelligence & Cryptocurrency OSINT focuses on analyzing public block
 | ------------------- | ----------------------------------------- |
 | Arkham Intelligence | [Find out more](../osint-tools/arkham.md) |
 | Dune                | [Find out more](../osint-tools/dune.md)   |
-|                     |                                           |
+| Osintly             | [Find out more](../osint-tools/osintly.md)   |
 |                     |                                           |
 |                     |                                           |
 |                     |                                           |

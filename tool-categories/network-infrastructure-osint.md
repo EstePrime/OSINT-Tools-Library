@@ -5,8 +5,9 @@ Network & Infrastructure OSINT focuses on discovering, indexing, and analyzing i
 | Tool          | Link                                             |
 | ------------- | ------------------------------------------------ |
 | Censys        | [Find out more](../osint-tools/censys.md)        |
-| Shodan        | [Find out more](../osint-tools/shodan.md)        |
-| IPinfo        | [Find out more](../osint-tools/ipinfo.md)        |
-| IntelligenceX | [Find out more](../osint-tools/intelligencex.md) |
-| PhishTank     | [Find out more](../osint-tools/phishtank.md)     |
 | FOFA          | [Find out more](../osint-tools/fofa.md)          |
+| IntelligenceX | [Find out more](../osint-tools/intelligencex.md) |
+| IPinfo        | [Find out more](../osint-tools/ipinfo.md)        |
+| Osintly       | [Find out more](../osint-tools/osintly.md)       |
+| PhishTank     | [Find out more](../osint-tools/phishtank.md)     |
+| Shodan        | [Find out more](../osint-tools/shodan.md)        |

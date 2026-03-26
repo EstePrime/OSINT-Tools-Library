@@ -5,7 +5,7 @@ Domain Name OSINT focuses on researching websites and their domain registrations
 | Tool           | Link                                              |
 | -------------- | ------------------------------------------------- |
 | Domain Dossier | [Find out more](../osint-tools/domain-dossier.md) |
+| Osintly        | [Find out more](../osint-tools/osintly.md)        |
 | WHOIS API      | [Find out more](../osint-tools/whois-api.md)      |
-|                |                                                   |
 |                |                                                   |
 |                |                                                   |
